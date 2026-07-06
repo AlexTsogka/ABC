@@ -6,7 +6,7 @@ ABC Analysis with Power BI Optimization
 
 ## 📂 Project File
 You can download and explore the fully interactive Power BI desktop file directly from this repository:
-* 📥 **[Download ABC_Analysis.pbix](ABC_Analysis.pbix)** *(Requires Power BI Desktop to open)*
+* 📥 **[Download ABC_Analysis.pbix]((https://github.com/AlexTsogka/ABC/blob/main/Transformed%20ABC.pbit))** *(Requires Power BI Desktop to open)*
 
 ---
 
